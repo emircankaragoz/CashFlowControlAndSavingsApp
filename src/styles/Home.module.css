@@ -1,0 +1,9 @@
+.main{
+    display:flex; flex-direction:column; justify-content:center;
+    min-height:100vh;
+    background-color: #fff;
+}
+
+.bgc_navbar {
+    background-color: #3f3d56;
+}
